@@ -1,16 +1,11 @@
+public class {
+	
+	public static void main(String[] args){
+	
+	int n=10;
 
-
-public class MyProgram{
-
-    public static void main(String[] args){
-        int a=8;
-        int b=5;
-
-      	a=a*b;
-	b=a/b;
-	a=a/b;
-
-        System.out.println(a);
-        System.out.println(b);
-    }
+	for(int i=n;i>=1;i--){
+		System.out.println(i);
+	}
+}
 }
