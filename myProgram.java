@@ -6,9 +6,9 @@ public class MyProgram{
         int a=8;
         int b=5;
 
-        int temp=a;
-        a=b;
-        b=temp;
+      	a=a*b;
+	b=a/b;
+	a=a/b;
 
         System.out.println(a);
         System.out.println(b);
