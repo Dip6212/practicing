@@ -1,7 +1,5 @@
-
-
-public class MyProgram{
-
+public class {
+	
     public static void main(String[] args){
         int a=12;
         int b=23;
@@ -15,4 +13,5 @@ public class MyProgram{
 	System.out.print("value of b: "+b);
         
     }
+
 }
