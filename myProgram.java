@@ -3,14 +3,14 @@
 public class MyProgram{
 
     public static void main(String[] args){
-        int a=8;
-        int b=5;
+        int c=12;
+        int d=23;
 
-        int temp=a;
-        a=b;
-        b=temp;
+        int temp=c;
+        c=d;
+        d=temp;
 
-        System.out.println(a);
-        System.out.println(b);
+        System.out.println(c);
+        System.out.println(d);
     }
 }
