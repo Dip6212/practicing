@@ -11,8 +11,8 @@ public class MyProgram{
 	b=a/b;
 	a=a/b;
 
-
-        System.out.println(a);
-        System.out.println(b);
+	System.out.print("value of a: "+a);
+	System.out.print("value of b: "+b);
+        
     }
 }
